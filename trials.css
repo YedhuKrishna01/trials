@@ -27,6 +27,6 @@ input{
     }
     #tog:checked + .nav{
         height: 12rem;
-        width: 100vw;
+        width: 100vw;ff
     }
 }
